@@ -7,9 +7,9 @@ basics of the Solidity programming language, I developed a smart contract that s
 the principle of the auction system on the remix work environment.
 
 This Smart Contract provides many services within the constraints that you have designed.
-1- Create an account
-2- Create a product
-3- An auction on the product
-4- Return all products
-5- Return user information
-6- Return all users
+1- Create an account.
+2- Create a product.
+3- An auction on the product.
+4- Return all products.
+5- Return user information.
+6- Return all users.
