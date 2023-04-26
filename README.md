@@ -1,4 +1,4 @@
-# SmartContract-Bidding-Store-
+# SmartContract-Auction-Store-
 
 When bids come to your mind, you will surely know that if you pay more, you win.
 
