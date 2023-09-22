@@ -112,8 +112,8 @@ contract MarketBid{
 
        
        require(_onwer == listOfUser[_onwer].user_id,"You cannot buy product wihtout registration ");
-       require(_amount > listOfProduct[id].price,"you can't buy this product");
-       require(_amount < listOfUser[_onwer].balance,"you balnce not ength");
+       require(_amount > listOfProduct[id].price," you can  not buy this product");
+       require(_amount < listOfUser[_onwer].balance,"you balance not enough");
 
        listOfProduct[id].price=_amount;
        listOfProduct[id].price_history.push(_amount);
